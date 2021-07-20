@@ -4,3 +4,4 @@ jupyter notebook sharing example: https://reproducible-science-curriculum.github
 
 binder instructions: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasonbrodeur/jupyter-test/HEAD?filepath=plot-gapminder.ipynb)
