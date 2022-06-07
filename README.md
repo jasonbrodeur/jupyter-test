@@ -6,5 +6,6 @@ binder instructions: https://github.com/alan-turing-institute/the-turing-way/blo
 
 https://mybinder.org/
 
+Adding some extra **text!!**.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasonbrodeur/jupyter-test/HEAD?filepath=plot-gapminder.ipynb)
